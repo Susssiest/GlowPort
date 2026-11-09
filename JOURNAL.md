@@ -22,3 +22,19 @@ Connected everything and changed my mind about using an esp32 and switched to ar
 <img width="481" height="302" alt="Screenshot 2026-11-09 at 10 57 50 AM" src="https://github.com/user-attachments/assets/2c71684b-e4df-4023-b82c-155cf9d4a0cf" />
 
 **Total time spent: 1h**
+
+## Placed all pcb components.
+
+I spent maybe 20 minutes moving all the parts around before settling on having the nano, , rotary encoder, button, switch, barrel jack, and screen on the top, and having all the inputs at the bottom.
+
+<img width="775" height="466" alt="Screenshot 2026-11-09 at 11 10 48 AM" src="https://github.com/user-attachments/assets/63d3f835-0ef5-485b-b97c-d0cf502f623a" />
+
+**Total time spent: 20 m**
+
+## Routed everything.
+
+I started with doing a ground fill on top and tried to do a one sided pcb, but then I gave up because routing was making my brain hurt, so I switched to putting all the power and gnd stuff on the front side, and all the data wiring on the back side. I made the pcb so all the pins are on one side except for sda and scl, and I made data tracks 0.4mm thick, and power tracks 1 mm thick. 
+
+<img width="991" height="560" alt="Screenshot 2026-11-09 at 11 07 52 AM" src="https://github.com/user-attachments/assets/40a0a426-20c2-4d36-91f9-ee93e76d00bf" />
+
+**Total time spent: 1h 30m**
