@@ -38,3 +38,12 @@ I started with doing a ground fill on top and tried to do a one sided pcb, but t
 <img width="991" height="560" alt="Screenshot 2026-11-09 at 11 07 52 AM" src="https://github.com/user-attachments/assets/40a0a426-20c2-4d36-91f9-ee93e76d00bf" />
 
 **Total time spent: 1h 30m**
+
+## Downloaded and added 3d models.
+
+I used grabcad to get all the 3d models I needed, and then moved the models around so they fit into the pins. It looks great, moving to case design.
+
+<img width="1181" height="660" alt="Screenshot 2026-11-09 at 1 04 45 PM" src="https://github.com/user-attachments/assets/4b4d7d02-b2ae-44ea-9b4e-0049500a2a74" />
+
+**Total time spent: 1h 10m**
+
