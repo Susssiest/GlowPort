@@ -1,2 +1,5 @@
 # GlowPort
-A custom LED controller with a screen, rotary encoders, and push buttons for navigations, a barrel jack for power, and JST connectors and terminal blocks for LED input.
+
+<img width="2940" height="1612" alt="LED_Controller_Case_Render" src="https://github.com/user-attachments/assets/98f9d4ce-2180-471e-b344-2def5ec8a689" />
+
+This is a custom LED controller with a screen, rotary encoders, and push buttons for navigations, a barrel jack for power, and JST connectors and terminal blocks for LED input.
