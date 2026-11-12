@@ -1,4 +1,3 @@
-
 ## Part Selection
 
 Did some research on parts, and settled on using 2 EC11s, a 0.96 in OLED screen, one momentary push button, and a SPST switch for navigation and controlling leds. I'm using a ESP32C3 Mini to run the hub. I'm using two JST connectors for LED wires, as well as a terminal block if they are stripped. So far the project is looking good, and seems feasable.
@@ -54,3 +53,17 @@ I made a basic rectangular box around the pcb and added holes for the different 
 <img width="1469" height="903" alt="Screenshot 2026-11-11 at 5 48 44 PM" src="https://github.com/user-attachments/assets/9ea9c3a1-59df-43e7-a4bf-1c0eea42f33d" />
 
 **Total time spent: 2h 10m**
+
+## Finished Cad, and edited PCB to make space for button.
+I made a number of changes to the case: 
+1. I moved the button to be level with the screen.
+2. I added a hole for the button in the case.
+3. I went into kicad and edited the edge cut to go inwards and make space for the button, which originally was overlapping with the PCB.
+4. I added a rectangle thing to the screwdriver holes for the terminal blocks.
+5. I added a glass acrylic thing over the arduino.
+6. I added screws and brass heat set inserts.
+7. Added bevels.
+8. Added knob. 
+<img width="1470" height="956" alt="Screenshot 2026-11-12 at 1 50 17 PM" src="https://github.com/user-attachments/assets/5d0fedcc-6eff-4317-bc03-f2d2ac8692ca" />
+
+**Total time spent: 3h 5m**
