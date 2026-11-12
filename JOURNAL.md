@@ -47,3 +47,10 @@ I used grabcad to get all the 3d models I needed, and then moved the models arou
 
 **Total time spent: 1h 10m**
 
+## Started Case
+
+I made a basic rectangular box around the pcb and added holes for the different comppnents. So far the button, screen, rotary encoders, usb, pin headers, and terminal blocks all have dedicated holes. I'va already added some bevels to the ports, but the design so far only has functional parts, and I will need to add bevels and other details later. I also came up with a name, GlowPort. It's a pretty boring mae considering it makes stuff glow, and it has a lot of ports, but it makes sense, and sounds fine, so I'll stick with it.
+
+<img width="1469" height="903" alt="Screenshot 2026-11-11 at 5 48 44 PM" src="https://github.com/user-attachments/assets/9ea9c3a1-59df-43e7-a4bf-1c0eea42f33d" />
+
+**Total time spent: 2h 10m**
